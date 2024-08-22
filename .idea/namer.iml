@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/step_03/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_03/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_a_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_a_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_a_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_b_behavior/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_b_behavior/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_04_b_behavior/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_a_pair/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_a_pair/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_a_pair/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_b_extract/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_b_extract/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_b_extract/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_c_card_padding/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_c_card_padding/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_c_card_padding/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_d_theme/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_d_theme/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_d_theme/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_e_text_style/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_e_text_style/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_e_text_style/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_f_accessibility/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_f_accessibility/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_f_accessibility/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_g_center_vertical/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_g_center_vertical/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_g_center_vertical/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_h_center_horizontal/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_h_center_horizontal/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_h_center_horizontal/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_i_optional_changes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_i_optional_changes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_05_i_optional_changes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_a_business_logic/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_a_business_logic/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_a_business_logic/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_b_add_row/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_b_add_row/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_b_add_row/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_c_add_like_button/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_c_add_like_button/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_06_c_add_like_button/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_a_split_my_home_page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_a_split_my_home_page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_a_split_my_home_page/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_b_convert_to_stateful/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_b_convert_to_stateful/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_b_convert_to_stateful/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_c_add_selectedindex/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_c_add_selectedindex/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_c_add_selectedindex/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_d_use_selectedindex/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_d_use_selectedindex/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_d_use_selectedindex/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_e_add_layout_builder/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_e_add_layout_builder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_07_e_add_layout_builder/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step_08/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step_08/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step_08/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
